@@ -1,0 +1,7 @@
+name = "T - Image + Hexagon" 
+description = "Random Image Placement with Hexagon Border"
+knob1 = "Image Size"
+knob2 = "Hexagon Size"
+knob3 = "Image Opacity" 
+knob4 = "Hexagon Color"
+released = "July 28 2017"

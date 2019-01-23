@@ -1,0 +1,7 @@
+name = "S - Breezy Feather" 
+description = "Oscilloscope in the Form of a Row of Triangles; Number of Triangles and Vertical Position of Row Controlled by Two LFOs"
+knob1 = "Number of Triangles LFO Rate"
+knob2 = "Slant Direction"
+knob3 = "Veritcal Movement LFO Rate" 
+knob4 = "Color"
+released = "November 15, 2018"

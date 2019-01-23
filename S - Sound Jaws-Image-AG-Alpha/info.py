@@ -1,0 +1,7 @@
+name = "S - Sound Jaws-AG-Alpha" 
+description = "Oscilloscope teeth with background image cycle, recursive feedback loop, tooth color cycle"
+knob1 = "Number of Teeth"
+knob2 = "Tooth Shape"
+knob3 = "Image Opacity" 
+knob4 = "Colorshift Speed"
+released = "September 7 2017"

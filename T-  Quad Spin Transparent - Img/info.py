@@ -1,0 +1,7 @@
+name = "T - Quad Spin Transparent - Img" 
+description = "Audio-triggered animated spinning images arranged in a 2x2 grid"
+knob1 = "Image scale"
+knob2 = "Distance from center"
+knob3 = "Rotation direction/speed" 
+knob4 = "Transparency"
+released = "August 23 2018"

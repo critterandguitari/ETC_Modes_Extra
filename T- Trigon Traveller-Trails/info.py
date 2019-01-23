@@ -1,0 +1,7 @@
+name = "T - Trigon Traveller-Trails" 
+description = "Aduio trigger rotates drifting trigon with history fade"
+knob1 = "X Drift"
+knob2 = "Y Drift"
+knob3 = "Trails Fade" 
+knob4 = "Color"
+released = "September 25 2017"

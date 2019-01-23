@@ -1,0 +1,7 @@
+name = "T - Basic Image" 
+description = "Basic Image Placement"
+knob1 = "X Position"
+knob2 = "Y Position"
+knob3 = "Image Size" 
+knob4 = "Opacity"
+released = "July 28 2017"

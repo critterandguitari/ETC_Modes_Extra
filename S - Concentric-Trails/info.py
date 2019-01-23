@@ -1,0 +1,7 @@
+name = "S - Concentric-Trails" 
+description = "Circle radius tracks amplitude with history fade"
+knob1 = "Circle Center X"
+knob2 = "Circle Center Y"
+knob3 = "History Opacity" 
+knob4 = "Color"
+released = "September 7 2017"

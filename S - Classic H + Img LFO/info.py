@@ -1,0 +1,7 @@
+name = "S - Classic H + Img LFO" 
+description = "Horizontal Oscilloscope with Image and Circle, Position of Scope Animated by LFO"
+knob1 = "Image Size"
+knob2 = "Rate of Change of Scope Y-Axis Placement" 
+knob3 = "Circle Size and Fill Type" 
+knob4 = "Circle Color"
+released = "October 31 2018"

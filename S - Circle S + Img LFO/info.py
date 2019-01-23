@@ -1,0 +1,7 @@
+name = "S - Circle S + Img LFO" 
+description = "Circular Oscilloscope with One Image and a Circle, Size of Objects Animated by LFO"
+knob1 = "Image Size Change Rate"
+knob2 = "Scope Radius"
+knob3 = "Circle Diameter Change Rate" 
+knob4 = "Circle Color"
+released = "October 31 2018"

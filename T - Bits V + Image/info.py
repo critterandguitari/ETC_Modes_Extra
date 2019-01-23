@@ -1,0 +1,7 @@
+name = "T - Bits V + Image" 
+description = "Vertical Bits with Background Image"
+knob1 = "Bits Amount"
+knob2 = "Bits Length"
+knob3 = "Image Cycle Rate" 
+knob4 = "Bits Color"
+released = "July 28 2017"

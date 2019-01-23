@@ -1,0 +1,7 @@
+name = "X - BoM Screensaver" 
+description = "LFO-controlled color shift on LFO-conrolled bouncing bar with recusive feedback; NO AUDIO RESPONSE"
+knob1 = "Red LFO rate"
+knob2 = "Green LFO rate"
+knob3 = "Blue LFO rate" 
+knob4 = "Bar bounce LFO rate"
+released = "January 10 2019"

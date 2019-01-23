@@ -1,0 +1,7 @@
+name = "S - Bits H - LFO" 
+description = "Randomly placed horizontal scope-lines with LFO zoom"
+knob1 = "Number of Bits"
+knob2 = "Size"
+knob3 = "Width LFO rate" 
+knob4 = "Color"
+released = "October 1, 2018"

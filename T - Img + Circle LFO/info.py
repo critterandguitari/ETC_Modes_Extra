@@ -1,0 +1,7 @@
+name = "T - Img + Circle LFO" 
+description = "Random Image Placement with Circle Element, Object Scale Animated with LFO"
+knob1 = "Size Change Rate"
+knob2 = "Circle Size"
+knob3 = "Image Opacity" 
+knob4 = "Circle Color"
+released = "October 31 2018"

@@ -1,0 +1,7 @@
+name = "S - Big City Scroll" 
+description = "Draws stacked rectangles scaled to audio amplitude, scrolls across screen with history fade"
+knob1 = "Scroll Direction"
+knob2 = "Y Position"
+knob3 = "History Opacity" 
+knob4 = "Color"
+released = "September 7 2017"

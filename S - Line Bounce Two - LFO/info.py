@@ -1,0 +1,7 @@
+name = "S - Line Bounce Two - LFO" 
+description = "Oscilloscope lines bounce with LFOs controlling rate"
+knob1 = "Vertical Bounce Amount"
+knob2 = "Width"
+knob3 = "Horizontal Bounce Amount" 
+knob4 = "Color"
+released = "October 1 2018"

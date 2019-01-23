@@ -1,0 +1,7 @@
+name = "T - Bezier Cousins-Trails" 
+description = "Trigger random bezier shapes with history fade"
+knob1 = "Number of Points and Offset Cousins"
+knob2 = "Offset Distance"
+knob3 = "Trails Fade" 
+knob4 = "Color"
+released = "September 25 2017"

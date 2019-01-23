@@ -1,0 +1,7 @@
+name = "S - Circle Scope + Image Single" 
+description = "Circular Oscilloscope with One Element"
+knob1 = "Image Size"
+knob2 = "Scope Size"
+knob3 = "Circle Diameter" 
+knob4 = "Color"
+released = "July 28 2017"

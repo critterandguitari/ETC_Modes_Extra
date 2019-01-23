@@ -1,0 +1,7 @@
+name = "S - Magnify Cloud - LFO" 
+description = "Trigger randomly places circles with LFO controlling zoom"
+knob1 = "Circle Diameter"
+knob2 = "Number of Circles"
+knob3 = "LFO zoom rate" 
+knob4 = "Color"
+released = "October 1 2018"

@@ -1,0 +1,7 @@
+name = "S - Rough Fine Vert - LFO" 
+description = "Vertical Scope Lines Repositioned with LFO"
+knob1 = "LFO rate parameter 1"
+knob2 = "Line Width and LFO rate parameter 2"
+knob3 = "Ball size" 
+knob4 = "Color"
+released = "October 1 2018"

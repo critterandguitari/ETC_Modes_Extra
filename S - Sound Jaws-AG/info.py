@@ -1,0 +1,7 @@
+name = "S - Sound Jaws-AG" 
+description = "Oscilloscope teeth with recursive feedback loop and tooth color cycle"
+knob1 = "Jaw Clench" 
+knob2 = "Number of Teeth"
+knob3 = "Tooth Shape"
+knob4 = "Colorshift Speed"
+released = "September 7 2017"

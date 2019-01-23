@@ -1,0 +1,7 @@
+name = "T - Image Grid Slider-Alpha" 
+description = "Audio-Triggered Image Cycle in a 2x2 grid with adjustable transparency"
+knob1 = "Image Scale"
+knob2 = "Slide"
+knob3 = "Grid Offset" 
+knob4 = "Image Opacity"
+released = "September 7 2017"

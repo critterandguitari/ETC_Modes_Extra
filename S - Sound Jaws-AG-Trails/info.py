@@ -1,0 +1,7 @@
+name = "S - Sound Jaws-AG-Trails" 
+description = "Oscilloscope teeth with recursive feedback loop, history fade, tooth color cycle"
+knob1 = "Number of Teeth"
+knob2 = "Tooth Shape"
+knob3 = "History Opacity" 
+knob4 = "Colorshift Speed"
+released = "September 7 2017"

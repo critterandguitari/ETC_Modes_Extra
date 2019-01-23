@@ -1,0 +1,7 @@
+name = "T - Image Spin Grid" 
+description = "Audio-Triggered Image Cycle in a 2x2 grid with spin"
+knob1 = "Image Scale"
+knob2 = "Slide"
+knob3 = "Distance From Center" 
+knob4 = "Spin"
+released = "September 7 2017"

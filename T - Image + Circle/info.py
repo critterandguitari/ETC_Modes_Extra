@@ -1,0 +1,7 @@
+name = "T - Image + Circle" 
+description = "Random Image Placement with Circle Element"
+knob1 = "Image Size"
+knob2 = "Circle Size"
+knob3 = "Image Opacity" 
+knob4 = "Circle Color"
+released = "July 28 2017"

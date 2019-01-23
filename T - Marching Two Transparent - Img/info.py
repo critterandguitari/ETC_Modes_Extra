@@ -1,0 +1,7 @@
+name = "T - Marching Two Transparent - Img" 
+description = "Two images move across the screen at different speeds"
+knob1 = "X direction/speed, image 1; Y direction/speed, image 2"
+knob2 = "Y direction/speed, image 1; X direction/speed, image 2"
+knob3 = "Image size" 
+knob4 = "Transparency"
+released = "August 23 2018"

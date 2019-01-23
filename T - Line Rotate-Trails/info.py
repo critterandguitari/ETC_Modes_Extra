@@ -1,0 +1,7 @@
+name = "T - Line Rotate-Trails" 
+description = "Audio trigger rotates a line with history fade"
+knob1 = "Line Length and Width"
+knob2 = "Rotation Direction and Speed"
+knob3 = "Trails Fade" 
+knob4 = "Color"
+released = "September 25 2017"

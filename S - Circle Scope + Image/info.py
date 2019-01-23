@@ -1,0 +1,7 @@
+name = "S - Circle Scope + Image" 
+description = "Circular Oscilloscope with Image"
+knob1 = "Image Size"
+knob2 = "Scope Size"
+knob3 = "Line Width" 
+knob4 = "Color"
+released = "July 28 2017"

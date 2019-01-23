@@ -1,0 +1,7 @@
+name = "T - Migrating Circle Grids" 
+description = "grids of circles migrate across screen on audio trigger"
+knob1 = "X drift speed"
+knob2 = "Y drift speed"
+knob3 = "Circle radius" 
+knob4 = "Circle color"
+released = "August 23 2018"

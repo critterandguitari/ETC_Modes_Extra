@@ -1,0 +1,7 @@
+name = "S - Bouncing Bars LFO" 
+description = "Two Bars Illustrate Amplitude Whilst Migrating Across Screen, LFO Controlled Animation"
+knob1 = "Bar Width"
+knob2 = "Horizontal Movement LFO Rate"
+knob3 = "Vertical Movement LFO Rate" 
+knob4 = "Color"
+released = "November 15, 2018"

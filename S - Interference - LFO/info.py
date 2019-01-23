@@ -1,0 +1,7 @@
+name = "S - Interference - LFO" 
+description = "Oscilloscope lines overlap with LFOs controlling fan"
+knob1 = "Number of Lines/LFO rate"
+knob2 = "Outer Spread LFO limit"
+knob3 = "Center Spread LFO limit" 
+knob4 = "Color"
+released = "October 1 2018"
