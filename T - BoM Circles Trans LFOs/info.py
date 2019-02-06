@@ -1,0 +1,7 @@
+name = "T - BoM Circles Trans LFOs" 
+description = "Circle placed randomly on trigger with recursive feedback screen; circle size and feedback screen size contolled by LFOs"
+knob1 = "Ball size LFO rate"
+knob2 = "Feedback screen size LFO rate"
+knob3 = "Feedback screen transparency" 
+knob4 = "Ball color; grayscale/color"
+released = "January 10 2019"
