@@ -1,0 +1,7 @@
+name = "T - BoM Lines Trans LFOs" 
+description = "Lines placed randomly on trigger with recursive feedback screen; line size and feedback screen size contolled by LFOs"
+knob1 = "Line size/placement LFO rate"
+knob2 = "Feedback screen size LFO rate"
+knob3 = "Feedback screen transparency" 
+knob4 = "Line color; grayscale/color"
+released = "January 10 2019"
