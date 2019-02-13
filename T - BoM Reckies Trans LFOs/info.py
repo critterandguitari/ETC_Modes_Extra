@@ -1,0 +1,7 @@
+name = "T - BoM Reckies Trans LFOs" 
+description = "Rectilinear shapes placed randomly on trigger with recursive feedback screen; reckie size and feedback screen size contolled by LFOs"
+knob1 = "Reckie/shape size LFO rate"
+knob2 = "Feedback screen size LFO rate"
+knob3 = "Feedback screen transparency" 
+knob4 = "Reckie color; grayscale/color"
+released = "January 10 2019"
