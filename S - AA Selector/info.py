@@ -1,0 +1,7 @@
+name = "S - AA Selector" 
+description = "Anti-Aliased line arcs composed into geometric shapes; knobs select arc shapes and color range fade"
+knob1 = "number of arc layers"
+knob2 = "arc layer offset"
+knob3 = "arc shape select" 
+knob4 = "color range fade select"
+released = "March 18 2019"
