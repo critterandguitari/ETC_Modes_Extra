@@ -1,0 +1,7 @@
+name = "S - Gradient Helix" 
+description = "A helical column of circles gradually cycles through colors and sways horizontally"
+knob1 = "X position"
+knob2 = "Sway range"
+knob3 = "Individual circle radius and helix complexity" 
+knob4 = "Gradient select"
+released = "March 18 2019"
