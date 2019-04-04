@@ -1,0 +1,7 @@
+name = "S - Gradient Column" 
+description = "A column of pulsing circles gradually cycles through colors ; switch between gradient color ranges and control column height and width"
+knob1 = "Column height"
+knob2 = "Column width"
+knob3 = "Individual circle radius and column shape" 
+knob4 = "Gradient select"
+released = "March 18 2019"
