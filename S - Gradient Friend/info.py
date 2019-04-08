@@ -1,0 +1,7 @@
+name = "S - Gradient Friend" 
+description = "A free-floating figure composed of circles cycles through colors and gently drifts."
+knob1 = "X Position"
+knob2 = "Y Position"
+knob3 = "Figure height" 
+knob4 = "Gradient select"
+released = "March 18 2019"
