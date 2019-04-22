@@ -1,0 +1,7 @@
+name = "S - Binary Star" 
+description = "Two star-like radiating line scopes orbit each other; color selector chooses color range fade, rather than solid colors."
+knob1 = "star orbit distance"
+knob2 = "line width"
+knob3 = "history fade opacity" 
+knob4 = "color range select"
+released = "March 18 2019"
