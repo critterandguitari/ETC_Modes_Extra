@@ -1,0 +1,7 @@
+name = "S - Googly Eyes" 
+description = "Two circles vibrate with sound input, a horizontal scope 'mouth' shows waveform"
+knob1 = "Eye size/mouth thickness"
+knob2 = "Mouth width"
+knob3 = "Eye bounce speed (LFO)" 
+knob4 = "Color"
+released = "March 18 2019"
