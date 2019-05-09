@@ -1,0 +1,7 @@
+name = "S - Horizontal Cave" 
+description = "Perspective Lines meet at a single point whose position scopes incoming audio."
+knob1 = "X position"
+knob2 = "Line Thickness"
+knob3 = "History Fade Transparency" 
+knob4 = "Color"
+released = "March 18 2019"
