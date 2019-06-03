@@ -1,0 +1,7 @@
+name = "S - Radiating Square" 
+description = "Line segments arranged in a square scope audio amplitude; 2 LFOs repositing origin/endpoint of segments."
+knob1 = "X origin position LFO rate"
+knob2 = "Line thickness"
+knob3 = "Endpoint LFO position LFO rate" 
+knob4 = "Color selector"
+released = "March 18 2019"
