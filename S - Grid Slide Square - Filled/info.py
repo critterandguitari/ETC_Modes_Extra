@@ -1,0 +1,7 @@
+name = "S - Grid Slide Square - Filled" 
+description = "Grid of oscillating filled squares with LFO-controlled sliding rows with animated color fade"
+knob1 = "Slide LFO speed"
+knob2 = "Slide LFO range"
+knob3 = "Size" 
+knob4 = "Color"
+released = "March 18 2019"
